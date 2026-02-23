@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "DUJ v0.2 — Minimal Stability Stress Test"
+message: "If you use this software, please cite the associated technical note."
+type: software
+authors:
+  - family-names: "Thivierge"
+    given-names: "Isabelle"
+repository-code: "https://github.com/IsabelleThivierge/duj-v0.2"
+license: MIT
+version: "0.2.0"
+date-released: 2026-02-22
+keywords:
+  - dynamical systems
+  - first passage
+  - bounded control
+  - collapse threshold
+  - stress testing
