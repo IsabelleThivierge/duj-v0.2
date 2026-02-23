@@ -1,5 +1,8 @@
 # DUJ v0.2 — Minimal Stability Stress Test (Empirical First-Passage Scaffold)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/IsabelleThivierge/duj-v0.2/blob/main/DUJ_v02_Colab.ipynb)
+
 DUJ v0.2 is a minimal, reproducible instrument for empirically characterizing first-passage (collapse) behavior in a bounded corrective dynamical system under persistent external pressure. This repository does not claim novelty in control theory. Its purpose is to provide a clean, executable baseline for measuring how collapse probability and time-to-collapse vary as persistent pressure approaches and exceeds corrective capacity.
 
 ## Model
