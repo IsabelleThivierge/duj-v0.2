@@ -41,4 +41,4 @@ out = sweep_rho(
 plot_collapse_probability(out, save_path="collapse_prob.png")
 plot_time_to_collapse_mean(out, save_path="mean_ttc.png")
 plot_trajectories(alpha=1.0, k=1.0, theta=10.0, sigma=0.05,
-                  t_max=500, rhos=[0.5, 1.0, 1.5], seed=42).
+                  t_max=500, rhos=[0.5, 1.0, 1.5], seed=42)
